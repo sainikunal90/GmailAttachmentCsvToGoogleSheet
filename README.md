@@ -1,7 +1,8 @@
 # GmailAttachmentCsvToGoogleSheet
-Will Transfer the CSV data in your Attachment to Google Sheet
+Will Transfer the CSV data in your GMail as an Attachment to Google Sheet
 
 This will help you in your daily task, and will help you to setup an automatic data transfer job.
+Please note, that it will pick the latest mail in your label and will refresh the Google Sheet everytime.
 
 #Preparation
 
